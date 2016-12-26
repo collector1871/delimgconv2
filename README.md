@@ -6,6 +6,9 @@
 * source code:
 [https://github.com/collector1871/delimgconv2][2]   
 
+
+This small script can be used for downloading images (\*.jpg) from www.delcampe.com.
+
 [1]: https://github.com/collector1871/Delimgconv
 [2]: https://github.com/collector1871/delimgconv2
 #### Dependencies:
