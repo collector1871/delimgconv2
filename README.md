@@ -1,12 +1,11 @@
 ### Delcampe images downloader and converter
 
 * technology: PHP, Linux tools
-* similar script (written in Python): 
-https://github.com/collector1871/Delimgconv
+* similar project (in Python): 
+[https://github.com/collector1871/Delimgconv][1]
 * source code:
-https://github.com/collector1871/delimgconv2   
+[https://github.com/collector1871/delimgconv2][2]   
 
-This is small PHP script which can be used for downloading content from delcampe.net.
 
 #### Dependencies:
 
@@ -19,7 +18,7 @@ This is small PHP script which can be used for downloading content from delcampe
 
 argument - delcampe user page with auctions.
 
-Examples of arg:
+Examples:
 
 https://www.delcampe.net/en_GB/collectables/search?seller_ids%5B0%5D=376894
 
@@ -37,3 +36,6 @@ Temporary **plik\*.txt** files with addtional information about content.
 ![Start](https://raw.githubusercontent.com/collector1871/delimgconv2/master/screenshot_001.jpg)
 
 ![pobrane fotki](https://raw.githubusercontent.com/collector1871/delimgconv2/master/screenshot_002.jpg)
+
+[1]: https://github.com/collector1871/Delimgconv
+[2]: https://github.com/collector1871/delimgconv2   
