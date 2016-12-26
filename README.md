@@ -6,7 +6,8 @@
 * source code:
 [https://github.com/collector1871/delimgconv2][2]   
 
-
+[1]: https://github.com/collector1871/Delimgconv
+[2]: https://github.com/collector1871/delimgconv2
 #### Dependencies:
 
 - PHP
@@ -36,6 +37,3 @@ Temporary **plik\*.txt** files with addtional information about content.
 ![Start](https://raw.githubusercontent.com/collector1871/delimgconv2/master/screenshot_001.jpg)
 
 ![pobrane fotki](https://raw.githubusercontent.com/collector1871/delimgconv2/master/screenshot_002.jpg)
-
-[1]: https://github.com/collector1871/Delimgconv
-[2]: https://github.com/collector1871/delimgconv2   
