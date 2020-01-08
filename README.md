@@ -2,15 +2,15 @@
 
 * technology: PHP, Linux tools
 * similar project (in Python): 
-[https://github.com/collector1871/Delimgconv][1]
+[https://github.com/rdbeni0/Delimgconv][1]
 * source code:
-[https://github.com/collector1871/delimgconv2][2]   
+[https://github.com/rdbeni0/delimgconv2][2]   
 
 
 This small script can be used for downloading images (\*.jpg) from www.delcampe.com.
 
-[1]: https://github.com/collector1871/Delimgconv
-[2]: https://github.com/collector1871/delimgconv2
+[1]: https://github.com/rdbeni0/Delimgconv
+[2]: https://github.com/rdbeni0/delimgconv2
 #### Dependencies:
 
 - PHP
@@ -37,6 +37,6 @@ Temporary **plik\*.txt** files with addtional information about content.
 
 #### Screenshots - example:
 
-![Start](https://raw.githubusercontent.com/collector1871/delimgconv2/master/screenshot_001.jpg)
+![Start](https://raw.githubusercontent.com/rdbeni0/delimgconv2/master/screenshot_001.jpg)
 
-![pobrane fotki](https://raw.githubusercontent.com/collector1871/delimgconv2/master/screenshot_002.jpg)
+![pobrane fotki](https://raw.githubusercontent.com/rdbeni0/delimgconv2/master/screenshot_002.jpg)
